@@ -1,4 +1,4 @@
-# Função para converter segundos para horas, minutos e segundos
+# Converter segundos para horas, minutos e segundos
 def converter_para_horas_minutos_segundos(segundos):
     horas = segundos // 3600
     resto = segundos % 3600
